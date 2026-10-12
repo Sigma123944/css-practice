@@ -1,0 +1,43 @@
+
+body {
+    background-color: #F8FAFC;
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    color: #7C3AED;
+}
+
+p {
+    font-size: 18px;
+    line-height: 1.6;
+}
+
+.profile-card {
+    background-color: white;
+    border: 1px solid #E2E8F0;
+    border-radius: 12px;
+    padding: 25px;
+    width: 280px;
+    text-align: center;
+}
+
+.avatar {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+button {
+    background-color: #7C3AED;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    padding: 12px 20px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #6D28D9;
+}
